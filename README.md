@@ -57,6 +57,7 @@ Os resultados demonstram **forte concentração de receita em uma parcela da bas
 ---
 
 ## Estrutura do Projeto
+```
 projeto-analise-de-dados
 │   .gitignore
 │
@@ -74,8 +75,7 @@ projeto-analise-de-dados
     └───.ipynb_checkpoints
             Mineração-checkpoint.ipynb
             Visualização-checkpoint.ipynb
-
-
+```
 ## Tecnologias Utilizadas
 
 - Python
